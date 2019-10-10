@@ -30,6 +30,11 @@ Here you can set the map that you want to load.
 
 I expect there will be awesome tools/launchers to aid you with downloading and setting maps, without doing it manually in the future!
 
+## Disclaimer
+All rights on Project Session and its assets belong to crea-ture Studios.  
+If you use this stuff in your tools/launchers etc. don't forget to credit the hard work ;-)
+
+When modding breaks your game, don't blame the Session devs. This is all unofficial stuff and not their problem.
 
 ## Credits
 * Crea-ture Studios for making a great game.
