@@ -12,14 +12,14 @@ This opens up the use of custom assets to a wider non technical audience, which 
 
 I made a video showing you the simple process [here](https://youtu.be/vQXdg9g0M8Y)
 
-1. Download [TODO LINK] and unpack EzPzMod somewhere.
+1. Download [here](https://github.com/dga711/SessionEzPzMod/releases) and unpack EzPzMod somewhere.
 2. Open EzPzMod
-3. Click "Select Folder" and browse to session game folder.  
-It should be something like `...\steamapps\common\Session`
+3. "Click "Select Folder" and browse to Session folder.  
+It usually should be something like `...\steamapps\common\Session`
 4. Then click "Patch"
 5. DONE!
 
--> You shoud to have to do this *only once*, until it breaks because of updates or something else.
+-> You should to have to do this *only once*, until it breaks because of updates or something else.
 
 ## Usage
 1. Download a map
@@ -32,7 +32,7 @@ I expect there will be awesome tools/launchers to aid you with downloading and s
 
 ## Disclaimer
 All rights on Project Session and its assets belong to crea-ture Studios.  
-If you use this stuff in your tools/launchers etc. don't forget to credit the hard work ;-)
+If you use this stuff in your tools/launchers etc. don't just steal and forget to credit the hard work ;-)
 
 When modding breaks your game, don't blame the Session devs. This is all unofficial stuff and not their problem.
 
