@@ -1,7 +1,7 @@
 # SessionEzPzMod
 A patcher to use custom maps and assets in Project Session without the hassle of unpacking.
 
-I am happy to introduce this to you, as this will make all things modding much easier.  
+I am happy to introduce this to you, as this will make modding much easier.  
 This opens up the use of custom assets to a wider non technical audience, which is exciting.
 
 ![Screenshot](https://github.com/dga711/SessionEzPzMod/raw/master/readme.png)
@@ -14,8 +14,8 @@ I made a video showing you the simple process [here](https://youtu.be/vQXdg9g0M8
 
 1. Download [here](https://github.com/dga711/SessionEzPzMod/releases) and unpack EzPzMod somewhere.
 2. Open EzPzMod
-3. "Click "Select Folder" and browse to Session folder.  
-It usually should be something like `...\steamapps\common\Session`
+3. The path to the Session folder should already be set. Otherwise click "Select Folder" and browse to Session folder.  
+It should be something like `...\steamapps\common\Session`
 4. Then click "Patch"
 5. DONE!
 
@@ -29,6 +29,9 @@ _(Some maps could differ)_
 Here you can set the map that you want to load.
 
 I expect there will be awesome tools/launchers to aid you with downloading and setting maps, without doing it manually in the future!
+
+## Important Notes
+* Texture/Material mods need to recreate the full path when the game is not unpacked. So current mods will not work rightaway. There will be better solutions in the future.
 
 ## Disclaimer
 All rights on Project Session and its assets belong to crea-ture Studios.  
