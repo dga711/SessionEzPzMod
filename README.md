@@ -7,7 +7,7 @@ This opens up the use of custom assets to a wider non technical audience, which 
 ![Screenshot](https://github.com/dga711/SessionEzPzMod/raw/master/readme.png)
 
 ## Installation
-**Please follow the instructions.** It doesn't take a lot of time and other people don't want to explain it 100 times.
+**Please follow the instructions.** It doesn't take a lot of time and other people don't want to explain it 100 times.  
 *If your game is already unpacked you should clean it up or redownload. Otherwise bad stuff can happen.*
 
 I made a video showing you the simple process [TODO: Link to Video]
