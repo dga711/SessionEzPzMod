@@ -9,7 +9,7 @@ Please follow the instructions. It doesn't take a lot of time and other people d
 
 I made a video showing you the simple process [TODO: Link to Video]
 
-1. Download and unpack EzPzMod somewhere.
+1. Download [TODO LINK] and unpack EzPzMod somewhere.
 2. Open EzPzMod
 3. Click "Select Folder" and browse to session game folder.  
 It should be something like _...\steamapps\common\Session_
@@ -31,5 +31,6 @@ I expect there will be awesome tools/launchers to aid you with downloading and s
 ## Credits
 * Crea-ture Studios for making a great game.
 * Thanks to GHFear for the motivation and tips to pick it up again ;-)  
+Visit the [_Illusory Modding_ Discord](https://discord.gg/YT2z5DU) for great things to come.
 * All the people that share information on UE things.
 * Everyone I forgot.
