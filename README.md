@@ -4,6 +4,8 @@ A patcher to use custom maps and assets in Project Session without the hassle of
 I am happy to introduce this to you, as this will make all things modding much easier.  
 This opens up the use of custom assets to a wider non technical audience, which is exciting.
 
+![Screenshot](https://raw.githubusercontent.com/dga711/SessionEzPzMod/master/readme.png)
+
 ## Installation
 **Please follow the instructions.** It doesn't take a lot of time and other people don't want to explain it 100 times.
 
