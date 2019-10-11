@@ -33,7 +33,7 @@ Here you can set the map that you want to load.
 I expect there will be awesome tools/launchers to aid you with downloading and setting maps, without doing it manually in the future!
 
 ## Important Notes
-* Texture Mods (Clothes, Decks etc.) need to recreate the full path when the game is not unpacked. So current mods will not work rightaway. But seems to work for people. There will be better solution in the future.
+* ~~Texture Mods (Clothes, Decks etc.) need to recreate the full path when the game is not unpacked. So current mods will not work rightaway. But seems to work for people. There will be better solution in the future.~~ Using MapSwitcher helps with that.
 * After leaving the appartment you will go back to NYC. This is something the map switchers will fix for you.
 
 ## Disclaimer
