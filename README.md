@@ -12,7 +12,10 @@ This opens up the use of custom assets to a wider non technical audience, which 
 
 I made a video showing you the simple process [here](https://youtu.be/vQXdg9g0M8Y)
 
-If you already unpacked the game previously you should clean up your Content folder. Delete everything besides the _Paks_ and _Movies_ folder.
+If you already unpacked the game previously you should clean up your Content folder. Delete everything besides the _Paks_ and _Movies_ folder.  
+
+**Note:** The [Mapswitcher v2.0 by rodriada000](https://github.com/rodriada000/SessionMapSwitcher) now has the patch included and is compatible. Use that to skip the manual steps below.
+
 
 1. Download [here](https://github.com/dga711/SessionEzPzMod/releases) and unpack EzPzMod somewhere.
 2. Open EzPzMod
