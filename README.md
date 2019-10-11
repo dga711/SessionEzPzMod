@@ -12,6 +12,9 @@ This opens up the use of custom assets to a wider non technical audience, which 
 
 I made a video showing you the simple process [here](https://youtu.be/vQXdg9g0M8Y)
 
+**Note:** The [Mapswitcher v2.0 by rodriada000](https://github.com/rodriada000/SessionMapSwitcher) now has the patch included and is compatible. Use that to skip the manual steps below.
+
+
 1. Download [here](https://github.com/dga711/SessionEzPzMod/releases) and unpack EzPzMod somewhere.
 2. Open EzPzMod
 3. The path to the Session folder should already be set. Otherwise click "Select Folder" and browse to Session folder.  
@@ -31,7 +34,7 @@ Here you can set the map that you want to load.
 I expect there will be awesome tools/launchers to aid you with downloading and setting maps, without doing it manually in the future!
 
 ## Important Notes
-* Texture Mods (Clothes, Decks etc.) need to recreate the full path when the game is not unpacked. So current mods will not work rightaway. But seems to work for people. There will be better solution in the future.
+* Texture Mods (Clothes, Decks etc.) need to recreate the full path when the game is not unpacked. So current mods will not work rightaway. But seems to work for people. There will be better solution in the future. MapSwitcher v2 includes a fix.
 * After leaving the appartment you will go back to NYC. This is something the map switchers will fix for you.
 
 ## Disclaimer
